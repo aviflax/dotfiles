@@ -1,4 +1,4 @@
-alias ll="ls -lahpL"
+alias ll="ls -Alhp"
 alias con="tail -40 -f /var/log/system.log"
 alias gs="git status"
 alias gsv="git status -v"
